@@ -207,6 +207,7 @@ Type `make list` to see the following list:
 | cpp-rapidyaml     | C++        | [rapidyaml](https://github.com/biojppm/rapidyaml) | 0.4.0    | static  |
 | cpp-yamlcpp       | C++        | [yaml-cpp](https://github.com/jbeder/yaml-cpp) | 0.8.0    | static  |
 | dotnet-yamldotnet | C#         | [YamlDotNet](https://github.com/aaubry/YamlDotNet) | 11.2.1   | dotnet  |
+| dotnet-yamlify    | C#         | [Yamlify](https://github.com/SwissLife-OSS/Yamlify) | 1.1.0    | dotnet  |
 | go-yaml           | Go         | [go-yaml](https://github.com/go-yaml/yaml) | v2       | static  |
 | hs-hsyaml         | Haskell    | [HsYAML](https://github.com/haskell-hvr/HsYAML) | 0.2.1.0  | haskell |
 | hs-reference      | Haskell    | [YAMLReference](https://github.com/orenbenkiki/yamlreference) | master   | haskell |
