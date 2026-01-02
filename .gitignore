@@ -6,3 +6,10 @@
 /shared/
 
 .idea
+
+# .NET build artifacts
+**/bin/
+**/obj/
+*.dll
+*.pdb
+*.exe
